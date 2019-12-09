@@ -23,7 +23,7 @@ ul.navbar-nav {
 /* END Navigation */
 
 .main{
-  background-image: url("wash.jpg");
+  background-image: url("header.jpg");
   background-position: center center;
   background-size: cover;
   width:100%;
@@ -31,7 +31,7 @@ ul.navbar-nav {
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(0, 0, 0, 0.8);
   top: 0;
   left: 0;
   width: 100%;
